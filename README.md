@@ -9,9 +9,9 @@ A personal bucket for [Scoop](https://scoop.sh), the Windows command-line instal
 
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-irm https://mirror.ghproxy.com/raw.githubusercontent.com/lzwme/scoop-proxy-cn/master/install.ps1 | iex
+irm https://gh-proxy.org/raw.githubusercontent.com/lzwme/scoop-proxy-cn/master/install.ps1 | iex
 
-scoop bucket add spc https://mirror.ghproxy.com/github.com/lzwme/scoop-proxy-cn
+scoop bucket add spc https://gh-proxy.org/github.com/lzwme/scoop-proxy-cn
 ```
 
 大陆用户请参阅： [https://github.com/lzwme/scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn)

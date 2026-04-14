@@ -1,16 +1,16 @@
 {
-    "version": "1.9.14",
+    "version": "1.9.15",
     "description": "AionUi - AI-powered desktop application",
     "homepage": "https://github.com/iOfficeAI/AionUi",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/iOfficeAI/AionUi/releases/download/v1.9.14/AionUi-1.9.14-win-x64.exe",
-            "hash": "d4e840e7e1a779bf5ff8a25521993780e131df5ab23e3e204c234c8dd2b714ae"
+            "url": "https://github.com/iOfficeAI/AionUi/releases/download/v1.9.15/AionUi-1.9.15-win-x64.exe",
+            "hash": "b5f4302ac7bf488a30bfac14444819c349b63900c9fb7cd7536b23db5b8600f3"
         },
         "arm64": {
-            "url": "https://github.com/iOfficeAI/AionUi/releases/download/v1.9.14/AionUi-1.9.14-win-arm64.exe",
-            "hash": "93661d996897731ed88fd250440189138b7211cda2324f5ebc11963047ff4295"
+            "url": "https://github.com/iOfficeAI/AionUi/releases/download/v1.9.15/AionUi-1.9.15-win-arm64.exe",
+            "hash": "9b1a1e6e64cee397fceb80e5642da22087c87cff6fb6cb1406a96534fb3c48c0"
         }
     },
     "bin": "AionUi.exe",
